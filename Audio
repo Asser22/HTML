@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>My Website</title>
+	</head>
+	<body>
+		<h1>Audio</h1>
+		<audio controls loop> <!-- autoplay OR muted-->
+			<source src="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3">
+			Your browser doesn't support aduio
+			
+		</audio>
+		
+
+	</body>
+	
+</html>
