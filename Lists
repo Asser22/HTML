@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>My Website</title>
+	</head>
+	<body>
+
+		<h3>Grocery List</h3>
+		<ul style="list-style-type:square ;">
+			<li>bread dough</li>
+			<li>cheese</li>
+			<li>peppers</li>
+		</ul>
+
+		<h3>To-Do list</h3>
+		<ol type="1" start="100"><!-- ol type="I"-->
+			<li>Mathemetics Research document</li>
+			<li>Workout</li>
+			<li>Programming</li>
+		</ol>
+
+		<!-- Description list-->
+		<h3>Web development languages</h3>
+		<dl>
+			<dt>HTML</dt>
+			<dd>-Adds structure to webpage</dd>
+			<dt>CSS</dt>
+			<dd>-Adds style to webpage</dd>
+			<dt>Javascript</dt>
+			<dd>-Adds functionality to webpage</dd>
+		</dl>
+
+		<!-- example of nested list-->
+		<h3>Grocery List New Version</h3>
+		<ul style="list-style-type:square ;">
+			<li>bread dough</li>
+			<li>cheese</li>
+			<li>peppers</li>
+				<ul>
+					<li>pizza</li>
+					<li>mushroms</li>
+					<li>pasta</li>
+				</ul>
+		</ul>
+
+
+	</body>
+	
+</html>
