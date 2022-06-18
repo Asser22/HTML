@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>My website</title>
+	</head>
+	<body>
+		<a href="http://www.google.com" target=_blank>If you click on this, you will go to Google's homepage</a>
+		<br>
+		<br>
+		<a href="NCC.png" download="Itwasapicture">Download NCC picture</a>
+		<br>
+		<img src="https://h5p.org/sites/default/files/h5p/content/1209180/images/file-6113d745132d3.jpeg" height="50%" width="50%" alt="This a parrot picture">
+	</body>
+	
+</html>
