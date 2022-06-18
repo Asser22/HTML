@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+   
+	<head>
+		<title>My Website</title>
+	</head>
+	<body>
+		<button name="simple_button" title="button">
+			Click Me!
+		</button>
+		<br>
+		<br>
+		<br>
+		<button name="submit_button" type="simple" value="submit">
+			Submit	
+		</button>
+		<br>
+		<br>
+		<br>
+		<button name="reset_button" type="reset" value="Reset">
+			Reset	
+		</button>
+		<br>
+		<br>
+		<br>
+		<button disabled>
+			Disabled
+		</button>
+		<br>
+		<br>
+		<br>
+		<button autofocus>
+			autofocus
+		</button>
+		<br>
+		<br>
+		<br>
+		<button onclick="alert('You clicked on a button OMG')">
+			ALERT!
+		</button>
+		<br>
+		<br>
+		<br>
+		<a href="http://www.google.com">
+		<button>
+			Google
+		</button>
+		</a>
+		<br>
+		<br>
+		<br>
+		<button style="background-color:#97f7cc ;
+					   color: #49aabf; 
+					   font-size: 18px
+					   font-family: monospace;">
+			Asser
+		</button>
+
+	</body>
+	
+</html>
