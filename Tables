@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<h2>Personal Finance</h2>
+
+		<table border="2px" bgcolor="black" height=150>
+			<tr bgcolor="gray">
+				<th height="10" width="75">Month:</th>
+				<th height="10" width="75">January</th>
+				<th height="10" width="75">February</th>
+				<th height="10" width="75">Marth</th>
+				<th height="10" width="75">April</th>
+			</tr>
+
+			<tr bgcolor="yellow" align="center">
+				<th>Income:</th>
+				<td>$1500</td>
+				<td>$1700</td>
+				<td>$1220</td>
+				<td>$1970</td>
+			</tr>
+
+			<tr bgcolor="red" align="center">
+				<th>Expenses</th>
+				<td>-$5000</td>
+				<td>-$1000</td>
+				<td>-$500</td>
+				<td>-$200</td>
+			</tr>
+				
+			<tr bgcolor="green" align="center">
+				<th>Savings</th>
+				<td>$1000</td>
+				<td>$550</td>
+				<td>$900</td>
+				<td>$300</td>
+			</tr>
+		</table>
+
+	</body>
+	
+</html>
