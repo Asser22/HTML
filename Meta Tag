@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+   
+	<head>
+		<title>My Website</title>
+		<meta charset="utf-8">
+		<meta name="keywords" content="HTML,tutorial,Asser Moustafa">
+		<meta name="describtion" content="Asser Moustafa Resume">
+		<meta name="author" content="Asser Moustafa">
+		<meta name="viewport" content="width=device-width,intial-scale=1.0"> 
+		<meta http-equiv = "refresh" content="100">
+
+	</head>
+	<body>
+		<h1>Test</h1>
+	</body>
+	
+</html>
