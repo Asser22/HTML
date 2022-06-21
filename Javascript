@@ -1,0 +1,42 @@
+<DOCTYPE html>
+
+	<html>
+
+	<head>
+
+		<title>Asser's Website</title>
+
+		<meta name="description" content="Asser's Website">
+
+		<meta name="keywords" content="Resume, internship">
+
+		<meta name="author" content="Asser">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<!--meta http-equiv="refresh" content="300"-->
+	</head>
+
+	<body>
+
+		<h1>Asser's Website</h1>
+
+		<br><br>
+
+		<!--a href="http://www.google.com"-->
+			<button onclick="doSomething()" style="background-color:#33333333;color:#00FF00;border-radius:5px;">Click Me!</button>
+
+			<p id="test">Hello</p>
+
+			<script>
+				function doSomething(){
+					document.getElementById("test").innerHTML = "Goodbye";
+				}
+			</script>
+
+
+	</body>
+
+	</html>
+
+
