@@ -1,0 +1,54 @@
+<DOCTYPE html>
+
+	<html>
+
+	<head>
+
+		<title>Asser's Website</title>
+
+		<meta name="description" content="Asser's Website">
+
+		<meta name="keywords" content="Resume, internship">
+
+		<meta name="author" content="Asser">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+		<meta charset="utf-8">
+    
+		<!--meta http-equiv="refresh" content="300"-->
+	</head>
+
+	<body>
+
+		<h1>Asser's Website</h1>
+    
+    <br><br>
+    
+		<iframe src="http://www.bing.com" width="750" height="250"></iframe>
+
+		<br><br>
+		<br><br>
+		<br><br>
+
+		<iframe  width="750" height="250" src="https://www.youtube.com/embed/watch?v=DSmJj1dCgSM&list=RDEMQYY_lLz6PNEqzUBKyRjOOw&index=11
+		" ></iframe>
+
+		<br><br>
+		<br><br>
+		<br><br>
+
+		<iframe border=0 frameborder=0 height=250 width=550
+ 		src="https://twitframe.com/show?url=https%3A%2F%2Ftwitter.com%2Fjack%2Fstatus%2F20"></iframe>
+
+ 		<br><br>
+ 		<br><br>
+ 		<br><br>
+
+		<iframe src="https://www.instagram.com/p/CGnw1SIhPs1/embed" width="400" height="480" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
+
+	</body>
+
+	</html>
+
+
